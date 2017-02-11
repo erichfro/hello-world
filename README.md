@@ -1,2 +1,3 @@
 # hello-world
-just anthor repository
+just another repository
+i'm typing.
